@@ -1,5 +1,8 @@
 # Project Goal
 This project is a solo project to help compile the CDC COVID-19 data for ease of access and to make it easier to compare data from one area to another within and including the United States.
+
+![](cdc.png)
+
 ***
 ## Outline
 In this project, I individually downloaded all the csv files for all the areas in and including the United States that was available on the cdc.gov website. 
